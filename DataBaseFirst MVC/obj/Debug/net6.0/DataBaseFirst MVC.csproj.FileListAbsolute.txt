@@ -1,0 +1,87 @@
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\appsettings.json
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\DataBaseFirst MVC.staticwebassets.runtime.json
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\DataBaseFirst MVC.exe
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\DataBaseFirst MVC.deps.json
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\DataBaseFirst MVC.runtimeconfig.json
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\DataBaseFirst MVC.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\DataBaseFirst MVC.pdb
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Azure.Core.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Humanizer.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.csproj.AssemblyReference.cache
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.AssemblyInfoInputs.cache
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.AssemblyInfo.cs
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.csproj.CoreCompileInputs.cache
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.RazorAssemblyInfo.cache
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.RazorAssemblyInfo.cs
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\staticwebassets\msbuild.DataBaseFirst MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.DataBaseFirst MVC.props
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DataBaseFirst MVC.props
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DataBaseFirst MVC.props
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\scopedcss\bundle\DataBaseFirst MVC.styles.css
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\scopedcss\projectbundle\DataBaseFirst MVC.bundle.scp.css
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.csproj.CopyComplete
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\refint\DataBaseFirst MVC.dll
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.pdb
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\DataBaseFirst MVC.genruntimeconfig.cache
+D:\Avalon solo mvc\DataBaseFirst MVC\DataBaseFirst MVC\obj\Debug\net6.0\ref\DataBaseFirst MVC.dll
